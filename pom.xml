@@ -40,7 +40,7 @@
                   <configuration>
 
                      <!--Required. Specifies the path to the project to execute.-->
-                     <projectFile>Matti-Automate.xml</projectFile>
+                     <projectFile>Webinar2-soapui-project.xml</projectFile>
                      <!--Required for reports. Specifies the format of the report to generate.-->
                      <!--Possible values: PDF, XLS, HTML, RTF, CSV, TXT and XML. Only available in Ready! API Pro. -->                      <reportFormat>PDF</reportFormat>
                      <!--Required for Maven Surefire reports. Must be true. -->
